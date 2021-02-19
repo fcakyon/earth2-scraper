@@ -1,7 +1,7 @@
 # Earth2.io Scrapper
 Up-to-date [earth2.io](https://earth2.io/) data
 
-<img width="1100" alt="teaser" src="./static/cover.png">
+<img width="1100" alt="cover" src="./static/cover.png">
 
 # Details
 - [earth2.io](https://earth2.io/) data `(tile prices per country)` is automatically scraped and hosted in this repo daily.
