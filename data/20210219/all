@@ -1,0 +1,1502 @@
+[
+    {
+        "country_name": "American Samoa",
+        "country_code": "AS",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "French Southern Territories",
+        "country_code": "TF",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Saudi Arabia",
+        "country_code": "SA",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "French Guiana",
+        "country_code": "GF",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Mayotte",
+        "country_code": "YT",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Bonaire, Sint Eustatius and Saba",
+        "country_code": "BQ",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Bouvet Island",
+        "country_code": "BV",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Saint Pierre and Miquelon",
+        "country_code": "PM",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Martinique",
+        "country_code": "MQ",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Christmas Island",
+        "country_code": "CX",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Cocos (Keeling) Islands",
+        "country_code": "CC",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "\u00c5land Islands",
+        "country_code": "AX",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Iran",
+        "country_code": "IR",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Iraq",
+        "country_code": "IQ",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Guadeloupe",
+        "country_code": "GP",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Tokelau",
+        "country_code": "TK",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Wallis and Futuna",
+        "country_code": "WF",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "R\u00e9union",
+        "country_code": "RE",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Israel",
+        "country_code": "IL",
+        "price_per_tile": "0",
+        "map_url": ""
+    },
+    {
+        "country_name": "Svalbard and Jan Mayen",
+        "country_code": "SJ",
+        "price_per_tile": "0.10",
+        "map_url": "https://app.earth2.io/#thegrid/a04246e7-5fcb-4a1c-8aa5-665d49995e06"
+    },
+    {
+        "country_name": "Sint Maarten (Dutch part)",
+        "country_code": "SX",
+        "price_per_tile": "0.10",
+        "map_url": "https://app.earth2.io/#thegrid/90925d54-fcc0-44e2-934e-02b33230e76a"
+    },
+    {
+        "country_name": "United States Minor Outlying Islands",
+        "country_code": "UM",
+        "price_per_tile": "0.10",
+        "map_url": "https://app.earth2.io/#thegrid/f9abfd98-4b1d-49dc-9dcb-ce76fad4f132"
+    },
+    {
+        "country_name": "New Caledonia",
+        "country_code": "NC",
+        "price_per_tile": "0.11",
+        "map_url": "https://app.earth2.io/#thegrid/86e5d4ff-6c8b-4e47-9e55-aa95b397afe9"
+    },
+    {
+        "country_name": "Aruba",
+        "country_code": "AW",
+        "price_per_tile": "0.12",
+        "map_url": "https://app.earth2.io/#thegrid/0da5a3fc-7b51-424b-8f42-8a270b183b48"
+    },
+    {
+        "country_name": "Northern Mariana Islands",
+        "country_code": "MP",
+        "price_per_tile": "0.12",
+        "map_url": "https://app.earth2.io/#thegrid/93bbcfec-66fe-42dd-9b5a-94f4d6d54a81"
+    },
+    {
+        "country_name": "United Arab Emirates",
+        "country_code": "AE",
+        "price_per_tile": "0.16",
+        "map_url": "https://app.earth2.io/#thegrid/9e706b0c-f5c5-4a44-a1d8-1d389c605274"
+    },
+    {
+        "country_name": "Virgin Islands (U.S.)",
+        "country_code": "VI",
+        "price_per_tile": "0.16",
+        "map_url": "https://app.earth2.io/#thegrid/413274d4-ea27-4531-ac35-8dcd7d3e71a0"
+    },
+    {
+        "country_name": "Macao",
+        "country_code": "MO",
+        "price_per_tile": "0.18",
+        "map_url": "https://app.earth2.io/#thegrid/36c072fb-9a4a-4005-9ee1-a4e7131a46f6"
+    },
+    {
+        "country_name": "French Polynesia",
+        "country_code": "PF",
+        "price_per_tile": "0.19",
+        "map_url": "https://app.earth2.io/#thegrid/2df3a931-f521-45a0-a3ab-e9a9e0266344"
+    },
+    {
+        "country_name": "Puerto Rico",
+        "country_code": "PR",
+        "price_per_tile": "0.19",
+        "map_url": "https://app.earth2.io/#thegrid/cd6275ad-a08b-4677-94fb-5a1b8c067230"
+    },
+    {
+        "country_name": "Saint Martin (French part)",
+        "country_code": "MF",
+        "price_per_tile": "0.23",
+        "map_url": "https://app.earth2.io/#thegrid/5aed532d-bc52-4422-9e2a-91209e666e6b"
+    },
+    {
+        "country_name": "Saint Barth\u00e9lemy",
+        "country_code": "BL",
+        "price_per_tile": "0.27",
+        "map_url": "https://app.earth2.io/#thegrid/a4341290-3c2d-446e-8a5a-9d1536ed9262"
+    },
+    {
+        "country_name": "Cura\u00e7ao",
+        "country_code": "CW",
+        "price_per_tile": "0.27",
+        "map_url": "https://app.earth2.io/#thegrid/93846622-5f1c-4233-b327-bd1088ca39e3"
+    },
+    {
+        "country_name": "Monaco",
+        "country_code": "MC",
+        "price_per_tile": "0.32",
+        "map_url": "https://app.earth2.io/#thegrid/1c896968-4785-46fa-9b60-fb6b959883ab"
+    },
+    {
+        "country_name": "Guam",
+        "country_code": "GU",
+        "price_per_tile": "0.37",
+        "map_url": "https://app.earth2.io/#thegrid/1a689de5-55a0-4813-afe4-fcb378492639"
+    },
+    {
+        "country_name": "Saint Helena, Ascension and Tristan da Cunha",
+        "country_code": "SH",
+        "price_per_tile": "0.38",
+        "map_url": "https://app.earth2.io/#thegrid/0fa46a55-bb35-400b-acdf-dca27a5a89f4"
+    },
+    {
+        "country_name": "British Indian Ocean Territory",
+        "country_code": "IO",
+        "price_per_tile": "0.39",
+        "map_url": "https://app.earth2.io/#thegrid/e3a8760f-364c-461e-bce3-aa5ffb3ac6c3"
+    },
+    {
+        "country_name": "Niue",
+        "country_code": "NU",
+        "price_per_tile": "0.40",
+        "map_url": "https://app.earth2.io/#thegrid/476b9142-f034-44de-ad18-ab3ed2222846"
+    },
+    {
+        "country_name": "Norfolk Island",
+        "country_code": "NF",
+        "price_per_tile": "0.40",
+        "map_url": "https://app.earth2.io/#thegrid/bb604d1b-6add-44ab-9a41-a61b8571d886"
+    },
+    {
+        "country_name": "Pitcairn",
+        "country_code": "PN",
+        "price_per_tile": "0.40",
+        "map_url": "https://app.earth2.io/#thegrid/5450c5ad-5405-4d83-9a7a-4cf8d1bbe84f"
+    },
+    {
+        "country_name": "Anguilla",
+        "country_code": "AI",
+        "price_per_tile": "0.40",
+        "map_url": "https://app.earth2.io/#thegrid/15fc305e-d6c3-4cb5-9c02-b048378442ef"
+    },
+    {
+        "country_name": "Montserrat",
+        "country_code": "MS",
+        "price_per_tile": "0.40",
+        "map_url": "https://app.earth2.io/#thegrid/5ecc1856-f3c8-4ccf-bc21-7649ed4d79ec"
+    },
+    {
+        "country_name": "South Georgia and the South Sandwich Islands",
+        "country_code": "GS",
+        "price_per_tile": "0.40",
+        "map_url": "https://app.earth2.io/#thegrid/32689820-39f7-4c6f-851e-5bf4efbd20d3"
+    },
+    {
+        "country_name": "Tuvalu",
+        "country_code": "TV",
+        "price_per_tile": "0.40",
+        "map_url": "https://app.earth2.io/#thegrid/097f8cdd-b5a3-4077-8827-5f842e392826"
+    },
+    {
+        "country_name": "Timor-Leste",
+        "country_code": "TL",
+        "price_per_tile": "0.41",
+        "map_url": "https://app.earth2.io/#thegrid/95434204-b7ca-420c-b22c-48e3565cccb9"
+    },
+    {
+        "country_name": "Eswatini",
+        "country_code": "SZ",
+        "price_per_tile": "0.41",
+        "map_url": "https://app.earth2.io/#thegrid/ed4556b1-06c5-4694-b3cf-91d6c8474f49"
+    },
+    {
+        "country_name": "Djibouti",
+        "country_code": "DJ",
+        "price_per_tile": "0.41",
+        "map_url": "https://app.earth2.io/#thegrid/98b4e9d4-e293-4eda-bae6-72b45ed3538b"
+    },
+    {
+        "country_name": "Dominica",
+        "country_code": "DM",
+        "price_per_tile": "0.41",
+        "map_url": "https://app.earth2.io/#thegrid/7edf5e23-b1eb-4e43-ba4b-5a37fc83f4fa"
+    },
+    {
+        "country_name": "Heard Island and McDonald Islands",
+        "country_code": "HM",
+        "price_per_tile": "0.41",
+        "map_url": "https://app.earth2.io/#thegrid/d7bf724d-418b-4a66-8362-e9f8f8a6640f"
+    },
+    {
+        "country_name": "Sao Tome and Principe",
+        "country_code": "ST",
+        "price_per_tile": "0.41",
+        "map_url": "https://app.earth2.io/#thegrid/e6281597-110d-4b13-800b-6928ab4f60ac"
+    },
+    {
+        "country_name": "Saint Kitts and Nevis",
+        "country_code": "KN",
+        "price_per_tile": "0.41",
+        "map_url": "https://app.earth2.io/#thegrid/3e146478-8dd2-41d5-9ee1-bdf98a390f2b"
+    },
+    {
+        "country_name": "Barbados",
+        "country_code": "BB",
+        "price_per_tile": "0.42",
+        "map_url": "https://app.earth2.io/#thegrid/907a1b87-02da-4af9-a1da-266fd624f1b0"
+    },
+    {
+        "country_name": "Equatorial Guinea",
+        "country_code": "GQ",
+        "price_per_tile": "0.42",
+        "map_url": "https://app.earth2.io/#thegrid/54028c27-b859-4a74-9736-170ce2ff23d9"
+    },
+    {
+        "country_name": "Cook Islands",
+        "country_code": "CK",
+        "price_per_tile": "0.42",
+        "map_url": "https://app.earth2.io/#thegrid/3b935dce-7baa-47bf-bdef-d0dad22b3498"
+    },
+    {
+        "country_name": "Lesotho",
+        "country_code": "LS",
+        "price_per_tile": "0.42",
+        "map_url": "https://app.earth2.io/#thegrid/e038221c-0c1f-4b8d-8f9a-dfc6eb8d8081"
+    },
+    {
+        "country_name": "Samoa",
+        "country_code": "WS",
+        "price_per_tile": "0.42",
+        "map_url": "https://app.earth2.io/#thegrid/00dff664-8718-437a-b72a-888d1a2d1dce"
+    },
+    {
+        "country_name": "Hong Kong",
+        "country_code": "HK",
+        "price_per_tile": "0.43",
+        "map_url": "https://app.earth2.io/#thegrid/262c1be7-68e6-477a-ace4-5e6cde733d83"
+    },
+    {
+        "country_name": "Tajikistan",
+        "country_code": "TJ",
+        "price_per_tile": "0.43",
+        "map_url": "https://app.earth2.io/#thegrid/9324eeb3-6266-4ea4-9fbe-c5a100c4e365"
+    },
+    {
+        "country_name": "Bosnia and Herzegovina",
+        "country_code": "BA",
+        "price_per_tile": "0.43",
+        "map_url": "https://app.earth2.io/#thegrid/2ae5c301-d211-4034-a5aa-3f29a6f03c2e"
+    },
+    {
+        "country_name": "Saint Lucia",
+        "country_code": "LC",
+        "price_per_tile": "0.43",
+        "map_url": "https://app.earth2.io/#thegrid/a83c4400-2be8-4d14-96fb-2ddd28176062"
+    },
+    {
+        "country_name": "Armenia",
+        "country_code": "AM",
+        "price_per_tile": "0.43",
+        "map_url": "https://app.earth2.io/#thegrid/1799cc8c-0ea8-4256-abd1-738ccb2a1059"
+    },
+    {
+        "country_name": "Turks and Caicos Islands",
+        "country_code": "TC",
+        "price_per_tile": "0.43",
+        "map_url": "https://app.earth2.io/#thegrid/6e819848-5ff3-4d4e-a491-b89c221f782c"
+    },
+    {
+        "country_name": "Gibraltar",
+        "country_code": "GI",
+        "price_per_tile": "0.44",
+        "map_url": "https://app.earth2.io/#thegrid/3c0983ea-15b5-47ec-b344-79ec2e0826f6"
+    },
+    {
+        "country_name": "South Sudan",
+        "country_code": "SS",
+        "price_per_tile": "0.44",
+        "map_url": "https://app.earth2.io/#thegrid/e65b467c-69e9-406a-9d3e-1a85024c2c99"
+    },
+    {
+        "country_name": "Palau",
+        "country_code": "PW",
+        "price_per_tile": "0.44",
+        "map_url": "https://app.earth2.io/#thegrid/a41c7624-69f9-4ef9-9128-56d7850e9aa8"
+    },
+    {
+        "country_name": "Guinea-Bissau",
+        "country_code": "GW",
+        "price_per_tile": "0.45",
+        "map_url": "https://app.earth2.io/#thegrid/03b417c5-bee3-451a-9586-4e16eaa036ce"
+    },
+    {
+        "country_name": "Faroe Islands",
+        "country_code": "FO",
+        "price_per_tile": "0.45",
+        "map_url": "https://app.earth2.io/#thegrid/19f54c1a-9527-4966-b74e-374a20129861"
+    },
+    {
+        "country_name": "C\u00f4te d'Ivoire",
+        "country_code": "CI",
+        "price_per_tile": "0.45",
+        "map_url": "https://app.earth2.io/#thegrid/735d8c04-5da7-4837-a179-16c991d1416e"
+    },
+    {
+        "country_name": "Saint Vincent and the Grenadines",
+        "country_code": "VC",
+        "price_per_tile": "0.45",
+        "map_url": "https://app.earth2.io/#thegrid/281870fb-2b59-49ad-ac6b-a3015ca64958"
+    },
+    {
+        "country_name": "Guinea",
+        "country_code": "GN",
+        "price_per_tile": "0.45",
+        "map_url": "https://app.earth2.io/#thegrid/164cdf17-1299-4ed1-b424-eef047681d09"
+    },
+    {
+        "country_name": "Vanuatu",
+        "country_code": "VU",
+        "price_per_tile": "0.45",
+        "map_url": "https://app.earth2.io/#thegrid/eb510926-cfe7-41df-8f7d-a70f930dfe2f"
+    },
+    {
+        "country_name": "Burundi",
+        "country_code": "BI",
+        "price_per_tile": "0.45",
+        "map_url": "https://app.earth2.io/#thegrid/51454154-af5e-45f0-ab9b-b910b802e7dc"
+    },
+    {
+        "country_name": "Belarus",
+        "country_code": "BY",
+        "price_per_tile": "0.45",
+        "map_url": "https://app.earth2.io/#thegrid/2c2e6c9a-a9ad-46e6-9660-0f84e11a983a"
+    },
+    {
+        "country_name": "Gambia",
+        "country_code": "GM",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/adce9d64-851f-4283-8b98-e42200287afa"
+    },
+    {
+        "country_name": "Micronesia (Federated States of)",
+        "country_code": "FM",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/4c17049c-0979-4a93-ae4c-4ecd92786818"
+    },
+    {
+        "country_name": "Guyana",
+        "country_code": "GY",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/e12f7ee7-8a1c-43b2-a675-7132e8866db7"
+    },
+    {
+        "country_name": "Mali",
+        "country_code": "ML",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/dba73aeb-2269-4544-ba45-abc7ce3ded62"
+    },
+    {
+        "country_name": "Niger",
+        "country_code": "NE",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/957cc117-dcce-4156-85d0-0a90e7017a81"
+    },
+    {
+        "country_name": "Suriname",
+        "country_code": "SR",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/69b2538b-914a-415e-939b-e53275220fdb"
+    },
+    {
+        "country_name": "Andorra",
+        "country_code": "AD",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/efca3c32-c09e-4d1b-bc8c-a0f1b3b023f1"
+    },
+    {
+        "country_name": "Palestine, State of",
+        "country_code": "PS",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/304b4070-e513-48e8-98c5-018095f21081"
+    },
+    {
+        "country_name": "Eritrea",
+        "country_code": "ER",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/dfbcb483-b2d7-48a9-a24d-e6930f68a0c6"
+    },
+    {
+        "country_name": "Georgia",
+        "country_code": "GE",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/9bb27d2d-e80f-4f19-987b-fcbdfdf70043"
+    },
+    {
+        "country_name": "Rwanda",
+        "country_code": "RW",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/7af0de95-8ed0-4cca-9963-265e82668e11"
+    },
+    {
+        "country_name": "El Salvador",
+        "country_code": "SV",
+        "price_per_tile": "0.46",
+        "map_url": "https://app.earth2.io/#thegrid/dea12a69-931c-446b-8b5e-b3b7ecc952b2"
+    },
+    {
+        "country_name": "Latvia",
+        "country_code": "LV",
+        "price_per_tile": "0.47",
+        "map_url": "https://app.earth2.io/#thegrid/131d23c2-3121-4aba-a9ff-a2b18d1d7883"
+    },
+    {
+        "country_name": "Malawi",
+        "country_code": "MW",
+        "price_per_tile": "0.47",
+        "map_url": "https://app.earth2.io/#thegrid/f5ef02c1-df07-4e77-8c3b-7b31e30bed41"
+    },
+    {
+        "country_name": "Guernsey",
+        "country_code": "GG",
+        "price_per_tile": "0.47",
+        "map_url": "https://app.earth2.io/#thegrid/59a6e290-75fa-4ab6-8138-9258334d94f8"
+    },
+    {
+        "country_name": "Liechtenstein",
+        "country_code": "LI",
+        "price_per_tile": "0.47",
+        "map_url": "https://app.earth2.io/#thegrid/9b70b077-20aa-4415-a046-6b66b9d1c044"
+    },
+    {
+        "country_name": "Kiribati",
+        "country_code": "KI",
+        "price_per_tile": "0.47",
+        "map_url": "https://app.earth2.io/#thegrid/31663f10-ca0c-4029-9e0d-4bb5317114b6"
+    },
+    {
+        "country_name": "Togo",
+        "country_code": "TG",
+        "price_per_tile": "0.47",
+        "map_url": "https://app.earth2.io/#thegrid/7a8bca88-2d0b-49d6-98d8-dda58dfb94f3"
+    },
+    {
+        "country_name": "Belize",
+        "country_code": "BZ",
+        "price_per_tile": "0.47",
+        "map_url": "https://app.earth2.io/#thegrid/f6d5469c-6434-4d33-8fbc-c2ffc8af61e5"
+    },
+    {
+        "country_name": "Zambia",
+        "country_code": "ZM",
+        "price_per_tile": "0.48",
+        "map_url": "https://app.earth2.io/#thegrid/024018c0-ab62-4c52-bad8-ab4a2eb6e974"
+    },
+    {
+        "country_name": "Jordan",
+        "country_code": "JO",
+        "price_per_tile": "0.48",
+        "map_url": "https://app.earth2.io/#thegrid/162f64bc-ad6b-4664-9a4b-da3c828f220b"
+    },
+    {
+        "country_name": "Jersey",
+        "country_code": "JE",
+        "price_per_tile": "0.48",
+        "map_url": "https://app.earth2.io/#thegrid/ceef9fbf-07c0-4d81-b95b-7cfb1e2733f4"
+    },
+    {
+        "country_name": "Lithuania",
+        "country_code": "LT",
+        "price_per_tile": "0.48",
+        "map_url": "https://app.earth2.io/#thegrid/3850cb10-5f27-45fa-91c9-6ce52f6196eb"
+    },
+    {
+        "country_name": "Slovakia",
+        "country_code": "SK",
+        "price_per_tile": "0.48",
+        "map_url": "https://app.earth2.io/#thegrid/adcbf205-f586-4f47-bd7f-050046be1bf9"
+    },
+    {
+        "country_name": "Burkina Faso",
+        "country_code": "BF",
+        "price_per_tile": "0.48",
+        "map_url": "https://app.earth2.io/#thegrid/7813ca60-e9f6-4570-97c7-d7b0cbc028a0"
+    },
+    {
+        "country_name": "Moldova",
+        "country_code": "MD",
+        "price_per_tile": "0.48",
+        "map_url": "https://app.earth2.io/#thegrid/56fb78dd-4d92-4067-b50d-b61790caf69e"
+    },
+    {
+        "country_name": "Montenegro",
+        "country_code": "ME",
+        "price_per_tile": "0.49",
+        "map_url": "https://app.earth2.io/#thegrid/0a7dc571-9301-4bb9-8d81-19e369bbd939"
+    },
+    {
+        "country_name": "Bhutan",
+        "country_code": "BT",
+        "price_per_tile": "0.49",
+        "map_url": "https://app.earth2.io/#thegrid/70d652db-6f28-415c-8322-ef37d5067e94"
+    },
+    {
+        "country_name": "Somalia",
+        "country_code": "SO",
+        "price_per_tile": "0.49",
+        "map_url": "https://app.earth2.io/#thegrid/bdf62cb4-922c-46d5-9a21-01af9d155768"
+    },
+    {
+        "country_name": "Marshall Islands",
+        "country_code": "MH",
+        "price_per_tile": "0.49",
+        "map_url": "https://app.earth2.io/#thegrid/ebb4ca72-58f4-4669-91fc-bddd9b56cb8c"
+    },
+    {
+        "country_name": "Bermuda",
+        "country_code": "BM",
+        "price_per_tile": "0.49",
+        "map_url": "https://app.earth2.io/#thegrid/b89dcdc5-372f-437c-81d1-f50868516c15"
+    },
+    {
+        "country_name": "Grenada",
+        "country_code": "GD",
+        "price_per_tile": "0.49",
+        "map_url": "https://app.earth2.io/#thegrid/d6be7be2-64a8-42ec-b3b4-0e78fab04513"
+    },
+    {
+        "country_name": "Azerbaijan",
+        "country_code": "AZ",
+        "price_per_tile": "0.50",
+        "map_url": "https://app.earth2.io/#thegrid/12f1bb28-6a26-4b0a-8b1f-2d7f415507d6"
+    },
+    {
+        "country_name": "Guatemala",
+        "country_code": "GT",
+        "price_per_tile": "0.50",
+        "map_url": "https://app.earth2.io/#thegrid/3c8fd040-1691-4d02-9cc2-c8a4a805c4db"
+    },
+    {
+        "country_name": "Tonga",
+        "country_code": "TO",
+        "price_per_tile": "0.50",
+        "map_url": "https://app.earth2.io/#thegrid/57662098-37c6-4b78-b8d8-c6957a12960c"
+    },
+    {
+        "country_name": "Mozambique",
+        "country_code": "MZ",
+        "price_per_tile": "0.50",
+        "map_url": "https://app.earth2.io/#thegrid/3d8495e4-7cee-477c-bedd-001501e7a012"
+    },
+    {
+        "country_name": "Estonia",
+        "country_code": "EE",
+        "price_per_tile": "0.50",
+        "map_url": "https://app.earth2.io/#thegrid/7aeda34f-d6e3-461b-96f1-e9f340d8057a"
+    },
+    {
+        "country_name": "Afghanistan",
+        "country_code": "AF",
+        "price_per_tile": "0.50",
+        "map_url": "https://app.earth2.io/#thegrid/71cf1f73-6628-4cf1-ba35-07ebecbc059e"
+    },
+    {
+        "country_name": "San Marino",
+        "country_code": "SM",
+        "price_per_tile": "0.50",
+        "map_url": "https://app.earth2.io/#thegrid/61826880-d656-468b-bef0-17260c442c20"
+    },
+    {
+        "country_name": "Brunei",
+        "country_code": "BN",
+        "price_per_tile": "0.50",
+        "map_url": "https://app.earth2.io/#thegrid/4d4b19e6-ad1c-4f89-a467-6995791c8205"
+    },
+    {
+        "country_name": "Seychelles",
+        "country_code": "SC",
+        "price_per_tile": "0.50",
+        "map_url": "https://app.earth2.io/#thegrid/41bb643e-33d6-4685-957a-b90f5dc4bc48"
+    },
+    {
+        "country_name": "Honduras",
+        "country_code": "HN",
+        "price_per_tile": "0.50",
+        "map_url": "https://app.earth2.io/#thegrid/93e3d1e0-e38e-4ff8-8961-7918dd80c9e3"
+    },
+    {
+        "country_name": "Cameroon",
+        "country_code": "CM",
+        "price_per_tile": "0.51",
+        "map_url": "https://app.earth2.io/#thegrid/afc4bd2c-25da-4805-830e-6b236c07b3af"
+    },
+    {
+        "country_name": "Slovenia",
+        "country_code": "SI",
+        "price_per_tile": "0.51",
+        "map_url": "https://app.earth2.io/#thegrid/cccb0408-2cd1-4a27-8d13-8b5165af7cab"
+    },
+    {
+        "country_name": "Kyrgyzstan",
+        "country_code": "KG",
+        "price_per_tile": "0.51",
+        "map_url": "https://app.earth2.io/#thegrid/d3cda4ca-1e9c-4455-bd4a-d85ca227a61a"
+    },
+    {
+        "country_name": "Uganda",
+        "country_code": "UG",
+        "price_per_tile": "0.51",
+        "map_url": "https://app.earth2.io/#thegrid/133998ea-63f2-4573-88b0-929e82d461f1"
+    },
+    {
+        "country_name": "Isle of Man",
+        "country_code": "IM",
+        "price_per_tile": "0.51",
+        "map_url": "https://app.earth2.io/#thegrid/14ac6528-0b0b-4bca-907f-370e92b43e69"
+    },
+    {
+        "country_name": "Congo",
+        "country_code": "CG",
+        "price_per_tile": "0.51",
+        "map_url": "https://app.earth2.io/#thegrid/accdc08a-6379-4d8f-81a1-de20d8d85564"
+    },
+    {
+        "country_name": "Yemen",
+        "country_code": "YE",
+        "price_per_tile": "0.51",
+        "map_url": "https://app.earth2.io/#thegrid/ec4720a2-35e3-4f03-be1f-8500381271c0"
+    },
+    {
+        "country_name": "Comoros",
+        "country_code": "KM",
+        "price_per_tile": "0.51",
+        "map_url": "https://app.earth2.io/#thegrid/f3b24054-5dcb-4ea5-a0d8-c7e11b426efd"
+    },
+    {
+        "country_name": "Mongolia",
+        "country_code": "MN",
+        "price_per_tile": "0.52",
+        "map_url": "https://app.earth2.io/#thegrid/638cb961-e9e2-41f9-907e-54e80222dbc6"
+    },
+    {
+        "country_name": "Angola",
+        "country_code": "AO",
+        "price_per_tile": "0.52",
+        "map_url": "https://app.earth2.io/#thegrid/c0c3e066-73eb-4eec-a136-3ca159d1b767"
+    },
+    {
+        "country_name": "Antigua and Barbuda",
+        "country_code": "AG",
+        "price_per_tile": "0.53",
+        "map_url": "https://app.earth2.io/#thegrid/c1d90ff4-55b6-454a-8289-32cfe8840aa2"
+    },
+    {
+        "country_name": "Cayman Islands",
+        "country_code": "KY",
+        "price_per_tile": "0.53",
+        "map_url": "https://app.earth2.io/#thegrid/e386fbec-f6aa-4555-a286-d52fd221d238"
+    },
+    {
+        "country_name": "Uruguay",
+        "country_code": "UY",
+        "price_per_tile": "0.54",
+        "map_url": "https://app.earth2.io/#thegrid/ea354636-c799-4631-8ab7-8da3139ff3e0"
+    },
+    {
+        "country_name": "Laos",
+        "country_code": "LA",
+        "price_per_tile": "0.54",
+        "map_url": "https://app.earth2.io/#thegrid/c44dd7ca-01d4-427f-99de-f7df91720b97"
+    },
+    {
+        "country_name": "Mauritius",
+        "country_code": "MU",
+        "price_per_tile": "0.55",
+        "map_url": "https://app.earth2.io/#thegrid/994fc99e-f700-4429-b155-86224296ea06"
+    },
+    {
+        "country_name": "Sierra Leone",
+        "country_code": "SL",
+        "price_per_tile": "0.55",
+        "map_url": "https://app.earth2.io/#thegrid/2c38af74-bd9b-4504-89a3-eeb7fc7cda1d"
+    },
+    {
+        "country_name": "Solomon Islands",
+        "country_code": "SB",
+        "price_per_tile": "0.56",
+        "map_url": "https://app.earth2.io/#thegrid/c7fbb3be-627c-4a6a-8506-34d5ce154a37"
+    },
+    {
+        "country_name": "Haiti",
+        "country_code": "HT",
+        "price_per_tile": "0.56",
+        "map_url": "https://app.earth2.io/#thegrid/20f89e2f-d1b8-4046-bf80-3bf021b6dc31"
+    },
+    {
+        "country_name": "Zimbabwe",
+        "country_code": "ZW",
+        "price_per_tile": "0.57",
+        "map_url": "https://app.earth2.io/#thegrid/f913cf4d-e3c2-40f6-bfe0-9d7c30a80fe4"
+    },
+    {
+        "country_name": "Namibia",
+        "country_code": "NA",
+        "price_per_tile": "0.57",
+        "map_url": "https://app.earth2.io/#thegrid/34e43ccc-f4e4-45c2-86bf-fbf347807a64"
+    },
+    {
+        "country_name": "Syria",
+        "country_code": "SY",
+        "price_per_tile": "0.57",
+        "map_url": "https://app.earth2.io/#thegrid/b445b03e-ba4f-41dc-97a1-e254c37c3b28"
+    },
+    {
+        "country_name": "Virgin Islands (British)",
+        "country_code": "VG",
+        "price_per_tile": "0.57",
+        "map_url": "https://app.earth2.io/#thegrid/f936e02a-280f-43ff-8cb7-620531cb4beb"
+    },
+    {
+        "country_name": "Cabo Verde",
+        "country_code": "CV",
+        "price_per_tile": "0.58",
+        "map_url": "https://app.earth2.io/#thegrid/23dd30ce-14cb-458f-b106-8a8393b89054"
+    },
+    {
+        "country_name": "Libya",
+        "country_code": "LY",
+        "price_per_tile": "0.58",
+        "map_url": "https://app.earth2.io/#thegrid/fc79015b-4811-4125-9eb4-96e70487d954"
+    },
+    {
+        "country_name": "Falkland Islands [Malvinas]",
+        "country_code": "FK",
+        "price_per_tile": "0.58",
+        "map_url": "https://app.earth2.io/#thegrid/a5e2326a-622b-490c-8187-ce17f4c447c5"
+    },
+    {
+        "country_name": "Gabon",
+        "country_code": "GA",
+        "price_per_tile": "0.58",
+        "map_url": "https://app.earth2.io/#thegrid/c6b0c869-57b5-4b4f-bc68-b96479749e53"
+    },
+    {
+        "country_name": "North Macedonia",
+        "country_code": "MK",
+        "price_per_tile": "0.59",
+        "map_url": "https://app.earth2.io/#thegrid/98705b6e-e0ee-493a-91b8-378dc9620ba7"
+    },
+    {
+        "country_name": "Cambodia",
+        "country_code": "KH",
+        "price_per_tile": "0.59",
+        "map_url": "https://app.earth2.io/#thegrid/3deaddef-0d93-4d5e-beac-32b112e7414d"
+    },
+    {
+        "country_name": "Chad",
+        "country_code": "TD",
+        "price_per_tile": "0.59",
+        "map_url": "https://app.earth2.io/#thegrid/d8b65a5e-ca37-4aa3-b0f4-477738eca965"
+    },
+    {
+        "country_name": "Ethiopia",
+        "country_code": "ET",
+        "price_per_tile": "0.60",
+        "map_url": "https://app.earth2.io/#thegrid/6fdfe52f-6741-43ba-bafa-7d99d766f533"
+    },
+    {
+        "country_name": "Tunisia",
+        "country_code": "TN",
+        "price_per_tile": "0.61",
+        "map_url": "https://app.earth2.io/#thegrid/b5b12cec-6d6e-4dbd-8c1d-d36d290f210f"
+    },
+    {
+        "country_name": "Senegal",
+        "country_code": "SN",
+        "price_per_tile": "0.63",
+        "map_url": "https://app.earth2.io/#thegrid/503ac990-c416-4b91-a6f7-44d8a774b8ad"
+    },
+    {
+        "country_name": "Nicaragua",
+        "country_code": "NI",
+        "price_per_tile": "0.63",
+        "map_url": "https://app.earth2.io/#thegrid/3f43440f-cf57-4c6f-8d6d-54dc0ed8255d"
+    },
+    {
+        "country_name": "Albania",
+        "country_code": "AL",
+        "price_per_tile": "0.63",
+        "map_url": "https://app.earth2.io/#thegrid/e90832b1-8680-436e-ba47-71eb1aefe981"
+    },
+    {
+        "country_name": "Greenland",
+        "country_code": "GL",
+        "price_per_tile": "0.64",
+        "map_url": "https://app.earth2.io/#thegrid/5811ad14-e512-4965-bbea-7cb7d7b09846"
+    },
+    {
+        "country_name": "Bangladesh",
+        "country_code": "BD",
+        "price_per_tile": "0.64",
+        "map_url": "https://app.earth2.io/#thegrid/11a7c280-789c-4774-b8b8-5df3bafa3206"
+    },
+    {
+        "country_name": "Paraguay",
+        "country_code": "PY",
+        "price_per_tile": "0.65",
+        "map_url": "https://app.earth2.io/#thegrid/6d175532-4972-4d22-88e0-8585cefc0e54"
+    },
+    {
+        "country_name": "Trinidad and Tobago",
+        "country_code": "TT",
+        "price_per_tile": "0.65",
+        "map_url": "https://app.earth2.io/#thegrid/4c32b72e-525c-48b8-ab98-654990ae3925"
+    },
+    {
+        "country_name": "Uzbekistan",
+        "country_code": "UZ",
+        "price_per_tile": "0.65",
+        "map_url": "https://app.earth2.io/#thegrid/98a3dba0-149c-4ee3-9ed5-2bf4540a47f9"
+    },
+    {
+        "country_name": "Lebanon",
+        "country_code": "LB",
+        "price_per_tile": "0.65",
+        "map_url": "https://app.earth2.io/#thegrid/e470599a-8cdf-4bba-ada9-ceb11709e7f4"
+    },
+    {
+        "country_name": "Sri Lanka",
+        "country_code": "LK",
+        "price_per_tile": "0.66",
+        "map_url": "https://app.earth2.io/#thegrid/0e9755ad-967d-47db-98e8-fc83149f297f"
+    },
+    {
+        "country_name": "Oman",
+        "country_code": "OM",
+        "price_per_tile": "0.66",
+        "map_url": "https://app.earth2.io/#thegrid/4465b855-be81-4193-824a-bfd6db942a5b"
+    },
+    {
+        "country_name": "Serbia",
+        "country_code": "RS",
+        "price_per_tile": "0.66",
+        "map_url": "https://app.earth2.io/#thegrid/b1db8d90-da55-499b-81ff-fecc7dd8ae71"
+    },
+    {
+        "country_name": "Bulgaria",
+        "country_code": "BG",
+        "price_per_tile": "0.67",
+        "map_url": "https://app.earth2.io/#thegrid/0a232d01-e866-450a-b829-e4309b5cdb6b"
+    },
+    {
+        "country_name": "Kenya",
+        "country_code": "KE",
+        "price_per_tile": "0.68",
+        "map_url": "https://app.earth2.io/#thegrid/8b177ea3-4a28-4e7b-ac67-4f49d44754c0"
+    },
+    {
+        "country_name": "Luxembourg",
+        "country_code": "LU",
+        "price_per_tile": "0.68",
+        "map_url": "https://app.earth2.io/#thegrid/b0764216-ac77-4020-95a4-ed1c2b8e0e61"
+    },
+    {
+        "country_name": "Nigeria",
+        "country_code": "NG",
+        "price_per_tile": "0.69",
+        "map_url": "https://app.earth2.io/#thegrid/5c1bedc1-719f-435d-88b5-269cf37378a9"
+    },
+    {
+        "country_name": "Pakistan",
+        "country_code": "PK",
+        "price_per_tile": "0.69",
+        "map_url": "https://app.earth2.io/#thegrid/a9d19d69-54b9-4a93-943f-cc5504ebf5d2"
+    },
+    {
+        "country_name": "Ghana",
+        "country_code": "GH",
+        "price_per_tile": "0.69",
+        "map_url": "https://app.earth2.io/#thegrid/d2cf0e07-4f2a-41cb-8e00-797403f32e24"
+    },
+    {
+        "country_name": "Botswana",
+        "country_code": "BW",
+        "price_per_tile": "0.72",
+        "map_url": "https://app.earth2.io/#thegrid/ce3f16b9-e3ea-43f2-8229-527400be5bbb"
+    },
+    {
+        "country_name": "Kazakhstan",
+        "country_code": "KZ",
+        "price_per_tile": "0.73",
+        "map_url": "https://app.earth2.io/#thegrid/92a27db0-3dcc-4603-95a3-e912a647fbf7"
+    },
+    {
+        "country_name": "Algeria",
+        "country_code": "DZ",
+        "price_per_tile": "0.74",
+        "map_url": "https://app.earth2.io/#thegrid/1abe7f5b-712c-403d-886b-e84585e0a471"
+    },
+    {
+        "country_name": "Costa Rica",
+        "country_code": "CR",
+        "price_per_tile": "0.75",
+        "map_url": "https://app.earth2.io/#thegrid/6245a8e5-eded-4155-9826-a8356db3c320"
+    },
+    {
+        "country_name": "Jamaica",
+        "country_code": "JM",
+        "price_per_tile": "0.76",
+        "map_url": "https://app.earth2.io/#thegrid/52ef2886-a449-47ac-9633-78b06ed62bfd"
+    },
+    {
+        "country_name": "Ecuador",
+        "country_code": "EC",
+        "price_per_tile": "0.77",
+        "map_url": "https://app.earth2.io/#thegrid/40395632-1c9e-43f8-a620-11d312524076"
+    },
+    {
+        "country_name": "Papua New Guinea",
+        "country_code": "PG",
+        "price_per_tile": "0.78",
+        "map_url": "https://app.earth2.io/#thegrid/81700944-3bc7-4cb0-9ce2-1a6660213074"
+    },
+    {
+        "country_name": "Czechia",
+        "country_code": "CZ",
+        "price_per_tile": "0.79",
+        "map_url": "https://app.earth2.io/#thegrid/21e0d634-cf6e-48f1-bc27-7d4fe2af4982"
+    },
+    {
+        "country_name": "Fiji",
+        "country_code": "FJ",
+        "price_per_tile": "0.79",
+        "map_url": "https://app.earth2.io/#thegrid/295b13c5-df84-4f18-9c6b-3e812e0f4f5f"
+    },
+    {
+        "country_name": "Madagascar",
+        "country_code": "MG",
+        "price_per_tile": "0.79",
+        "map_url": "https://app.earth2.io/#thegrid/8b6e8bff-55f6-49a9-b6b1-5df381a8e25e"
+    },
+    {
+        "country_name": "Bolivia",
+        "country_code": "BO",
+        "price_per_tile": "0.80",
+        "map_url": "https://app.earth2.io/#thegrid/2c0a9668-c196-4490-a504-f8bac2567057"
+    },
+    {
+        "country_name": "Hungary",
+        "country_code": "HU",
+        "price_per_tile": "0.80",
+        "map_url": "https://app.earth2.io/#thegrid/2b161d97-dc97-4956-b21c-82df608b7268"
+    },
+    {
+        "country_name": "North Korea",
+        "country_code": "KP",
+        "price_per_tile": "0.81",
+        "map_url": "https://app.earth2.io/#thegrid/578bbbf4-f56a-4521-84d6-f5b5b46db99a"
+    },
+    {
+        "country_name": "Malta",
+        "country_code": "MT",
+        "price_per_tile": "0.81",
+        "map_url": "https://app.earth2.io/#thegrid/b2993e65-e236-4cbe-afe8-2ed1497ee57b"
+    },
+    {
+        "country_name": "Western Sahara",
+        "country_code": "EH",
+        "price_per_tile": "0.83",
+        "map_url": "https://app.earth2.io/#thegrid/cd92dca8-d502-41fa-99fb-5cb21f9024bf"
+    },
+    {
+        "country_name": "Benin",
+        "country_code": "BJ",
+        "price_per_tile": "0.83",
+        "map_url": "https://app.earth2.io/#thegrid/2c14d3fc-17fe-47b2-8911-d123722e3f27"
+    },
+    {
+        "country_name": "Sudan",
+        "country_code": "SD",
+        "price_per_tile": "0.83",
+        "map_url": "https://app.earth2.io/#thegrid/6ddc0253-3e40-46ab-9133-6b58abb54f99"
+    },
+    {
+        "country_name": "Ukraine",
+        "country_code": "UA",
+        "price_per_tile": "0.86",
+        "map_url": "https://app.earth2.io/#thegrid/8c4d4020-4747-4bdd-a90c-8971b318202d"
+    },
+    {
+        "country_name": "Myanmar",
+        "country_code": "MM",
+        "price_per_tile": "0.87",
+        "map_url": "https://app.earth2.io/#thegrid/0ca49b4b-4868-4a0f-b682-4764a9f4378d"
+    },
+    {
+        "country_name": "Central African Republic",
+        "country_code": "CF",
+        "price_per_tile": "0.89",
+        "map_url": "https://app.earth2.io/#thegrid/f987b16a-c02e-4f0f-b837-d77111a5e6a6"
+    },
+    {
+        "country_name": "Dominican Republic",
+        "country_code": "DO",
+        "price_per_tile": "0.90",
+        "map_url": "https://app.earth2.io/#thegrid/72f03872-abfc-4722-b79b-2bae6b96583f"
+    },
+    {
+        "country_name": "Cyprus",
+        "country_code": "CY",
+        "price_per_tile": "0.91",
+        "map_url": "https://app.earth2.io/#thegrid/ece96331-ef95-4307-bb50-bc6fc76a4355"
+    },
+    {
+        "country_name": "Panama",
+        "country_code": "PA",
+        "price_per_tile": "0.94",
+        "map_url": "https://app.earth2.io/#thegrid/3d9dae3b-b5e0-48c3-a90d-12fc91172005"
+    },
+    {
+        "country_name": "Bahrain",
+        "country_code": "BH",
+        "price_per_tile": "0.97",
+        "map_url": "https://app.earth2.io/#thegrid/1988bd75-cfc1-4f84-a0b3-f91b320b504a"
+    },
+    {
+        "country_name": "Cuba",
+        "country_code": "CU",
+        "price_per_tile": "0.97",
+        "map_url": "https://app.earth2.io/#thegrid/494a79cd-4c74-48ab-be0b-7ae65d57fea5"
+    },
+    {
+        "country_name": "Iceland",
+        "country_code": "IS",
+        "price_per_tile": "1.02",
+        "map_url": "https://app.earth2.io/#thegrid/c79865a6-397e-4148-a6cb-4782fbcb03f5"
+    },
+    {
+        "country_name": "Congo (the Democratic Republic of the)",
+        "country_code": "CD",
+        "price_per_tile": "1.05",
+        "map_url": "https://app.earth2.io/#thegrid/c7204192-0569-4fa3-877f-0288470486ec"
+    },
+    {
+        "country_name": "Turkmenistan",
+        "country_code": "TM",
+        "price_per_tile": "1.08",
+        "map_url": "https://app.earth2.io/#thegrid/15bef5e5-d6e5-432f-bdf1-e3e4f3a3ff36"
+    },
+    {
+        "country_name": "Kuwait",
+        "country_code": "KW",
+        "price_per_tile": "1.11",
+        "map_url": "https://app.earth2.io/#thegrid/079f2630-2baa-4a43-beed-3d464ba7a5fd"
+    },
+    {
+        "country_name": "Finland",
+        "country_code": "FI",
+        "price_per_tile": "1.12",
+        "map_url": "https://app.earth2.io/#thegrid/5632a8d0-a86d-448b-a06a-5df54bf69cc3"
+    },
+    {
+        "country_name": "Tanzania",
+        "country_code": "TZ",
+        "price_per_tile": "1.14",
+        "map_url": "https://app.earth2.io/#thegrid/f6aa5789-371e-488a-bf0c-b60afebc5fe4"
+    },
+    {
+        "country_name": "Argentina",
+        "country_code": "AR",
+        "price_per_tile": "1.14",
+        "map_url": "https://app.earth2.io/#thegrid/9b352c6b-4dbe-4959-b7dd-eec2ef369b36"
+    },
+    {
+        "country_name": "Nepal",
+        "country_code": "NP",
+        "price_per_tile": "1.15",
+        "map_url": "https://app.earth2.io/#thegrid/e664b469-8ee7-405a-870a-ec7effd53a63"
+    },
+    {
+        "country_name": "Morocco",
+        "country_code": "MA",
+        "price_per_tile": "1.20",
+        "map_url": "https://app.earth2.io/#thegrid/73d574ce-4136-4925-ac6b-9a4ec938056f"
+    },
+    {
+        "country_name": "Maldives",
+        "country_code": "MV",
+        "price_per_tile": "1.23",
+        "map_url": "https://app.earth2.io/#thegrid/747a6abc-b521-449f-af54-c17b4c7cfa80"
+    },
+    {
+        "country_name": "Croatia",
+        "country_code": "HR",
+        "price_per_tile": "1.24",
+        "map_url": "https://app.earth2.io/#thegrid/d316fb50-8ec3-4639-b090-f5fa7587d694"
+    },
+    {
+        "country_name": "Colombia",
+        "country_code": "CO",
+        "price_per_tile": "1.25",
+        "map_url": "https://app.earth2.io/#thegrid/483a805a-f1eb-4ae2-980d-3b9ec629ea08"
+    },
+    {
+        "country_name": "Malaysia",
+        "country_code": "MY",
+        "price_per_tile": "1.26",
+        "map_url": "https://app.earth2.io/#thegrid/90940f85-100c-4017-be09-1c124b07fc67"
+    },
+    {
+        "country_name": "Taiwan",
+        "country_code": "TW",
+        "price_per_tile": "1.26",
+        "map_url": "https://app.earth2.io/#thegrid/b04e7081-0bd1-4be7-ba7f-1f049ff53ed2"
+    },
+    {
+        "country_name": "Venezuela",
+        "country_code": "VE",
+        "price_per_tile": "1.31",
+        "map_url": "https://app.earth2.io/#thegrid/adbfc161-12c0-4f4d-a67a-25d7787172b8"
+    },
+    {
+        "country_name": "Antarctica",
+        "country_code": "AQ",
+        "price_per_tile": "1.36",
+        "map_url": "https://app.earth2.io/#thegrid/1e8d9350-84a4-464e-82ef-1868a6c53a23"
+    },
+    {
+        "country_name": "Ireland",
+        "country_code": "IE",
+        "price_per_tile": "1.36",
+        "map_url": "https://app.earth2.io/#thegrid/8240a08f-8d03-45c8-9496-9ba62e48037a"
+    },
+    {
+        "country_name": "Vietnam",
+        "country_code": "VN",
+        "price_per_tile": "1.50",
+        "map_url": "https://app.earth2.io/#thegrid/69a840b8-ccb2-461d-8bc7-6a2ad6fe778f"
+    },
+    {
+        "country_name": "Poland",
+        "country_code": "PL",
+        "price_per_tile": "1.50",
+        "map_url": "https://app.earth2.io/#thegrid/85529729-014d-4737-b7e2-5a80050a941e"
+    },
+    {
+        "country_name": "Bahamas",
+        "country_code": "BS",
+        "price_per_tile": "1.51",
+        "map_url": "https://app.earth2.io/#thegrid/8000d991-b479-4096-976a-6e5bf884cefc"
+    },
+    {
+        "country_name": "Qatar",
+        "country_code": "QA",
+        "price_per_tile": "1.53",
+        "map_url": "https://app.earth2.io/#thegrid/94169e63-bd70-49d1-8668-a470d1bf856d"
+    },
+    {
+        "country_name": "Mauritania",
+        "country_code": "MR",
+        "price_per_tile": "1.55",
+        "map_url": "https://app.earth2.io/#thegrid/2b002543-1a73-4194-b121-3d7de69df622"
+    },
+    {
+        "country_name": "Romania",
+        "country_code": "RO",
+        "price_per_tile": "1.59",
+        "map_url": "https://app.earth2.io/#thegrid/0ed09b8c-63bb-423d-b5de-4184b43dc934"
+    },
+    {
+        "country_name": "Denmark",
+        "country_code": "DK",
+        "price_per_tile": "1.67",
+        "map_url": "https://app.earth2.io/#thegrid/6ff0dcf3-82eb-4833-a3c7-8434f3bd06a6"
+    },
+    {
+        "country_name": "Portugal",
+        "country_code": "PT",
+        "price_per_tile": "1.70",
+        "map_url": "https://app.earth2.io/#thegrid/e8d609e0-396c-49b8-8aa1-706dd37475fb"
+    },
+    {
+        "country_name": "Liberia",
+        "country_code": "LR",
+        "price_per_tile": "1.72",
+        "map_url": "https://app.earth2.io/#thegrid/a7a87d79-6836-4c7e-8f2a-25a02a844a00"
+    },
+    {
+        "country_name": "Egypt",
+        "country_code": "EG",
+        "price_per_tile": "1.82",
+        "map_url": "https://app.earth2.io/#thegrid/10d1c84f-249b-4e7a-961e-c4dfd1280538"
+    },
+    {
+        "country_name": "Philippines",
+        "country_code": "PH",
+        "price_per_tile": "1.85",
+        "map_url": "https://app.earth2.io/#thegrid/0712bd5d-2233-4b17-8529-5a94ded3fc59"
+    },
+    {
+        "country_name": "Chile",
+        "country_code": "CL",
+        "price_per_tile": "1.85",
+        "map_url": "https://app.earth2.io/#thegrid/004722d8-9c52-42cb-a652-21ad90431f68"
+    },
+    {
+        "country_name": "Belgium",
+        "country_code": "BE",
+        "price_per_tile": "1.90",
+        "map_url": "https://app.earth2.io/#thegrid/697e06a5-3d29-4a80-88b2-bd07387856c9"
+    },
+    {
+        "country_name": "Peru",
+        "country_code": "PE",
+        "price_per_tile": "1.95",
+        "map_url": "https://app.earth2.io/#thegrid/e49723fa-691b-4eb5-b6e6-4e635d684849"
+    },
+    {
+        "country_name": "Norway",
+        "country_code": "NO",
+        "price_per_tile": "2.03",
+        "map_url": "https://app.earth2.io/#thegrid/082ba831-3d2c-4f4a-aeb5-83c4633ee656"
+    },
+    {
+        "country_name": "Indonesia",
+        "country_code": "ID",
+        "price_per_tile": "2.07",
+        "map_url": "https://app.earth2.io/#thegrid/9dafb24f-9408-4a2b-87ec-f564fe8e8e8a"
+    },
+    {
+        "country_name": "Turkey",
+        "country_code": "TR",
+        "price_per_tile": "2.14",
+        "map_url": "https://app.earth2.io/#thegrid/17292d3c-a0cf-413e-a9db-cd9d19d94b43"
+    },
+    {
+        "country_name": "Austria",
+        "country_code": "AT",
+        "price_per_tile": "2.17",
+        "map_url": "https://app.earth2.io/#thegrid/b52276eb-d536-4653-8444-3cfcd4c7f865"
+    },
+    {
+        "country_name": "New Zealand",
+        "country_code": "NZ",
+        "price_per_tile": "2.38",
+        "map_url": "https://app.earth2.io/#thegrid/a9b6fd07-995a-4deb-b8ab-057c663bdc78"
+    },
+    {
+        "country_name": "Nauru",
+        "country_code": "NR",
+        "price_per_tile": "2.38",
+        "map_url": "https://app.earth2.io/#thegrid/745e4649-d0a6-4c15-851b-60bc52de2407"
+    },
+    {
+        "country_name": "Thailand",
+        "country_code": "TH",
+        "price_per_tile": "2.48",
+        "map_url": "https://app.earth2.io/#thegrid/da15eeef-d911-4bbb-8f4b-ddaf2d51c2d3"
+    },
+    {
+        "country_name": "Sweden",
+        "country_code": "SE",
+        "price_per_tile": "2.60",
+        "map_url": "https://app.earth2.io/#thegrid/7327f630-8ce6-4a1c-ad5c-1274a8c0f97c"
+    },
+    {
+        "country_name": "Singapore",
+        "country_code": "SG",
+        "price_per_tile": "2.63",
+        "map_url": "https://app.earth2.io/#thegrid/b199d2e3-52e8-4c3b-82e1-2954a063d121"
+    },
+    {
+        "country_name": "Brazil",
+        "country_code": "BR",
+        "price_per_tile": "2.87",
+        "map_url": "https://app.earth2.io/#thegrid/497c0921-e0e2-43e5-affc-1a47c97b05ca"
+    },
+    {
+        "country_name": "South Africa",
+        "country_code": "ZA",
+        "price_per_tile": "2.93",
+        "map_url": "https://app.earth2.io/#thegrid/1205547c-92f6-4179-bdb5-9d605042b146"
+    },
+    {
+        "country_name": "Greece",
+        "country_code": "GR",
+        "price_per_tile": "3.05",
+        "map_url": "https://app.earth2.io/#thegrid/414bf48b-7226-4613-88a4-9e7dcaf4f64f"
+    },
+    {
+        "country_name": "Russia",
+        "country_code": "RU",
+        "price_per_tile": "3.51",
+        "map_url": "https://app.earth2.io/#thegrid/ff243cf5-bc44-4cbc-b015-0babab811f0e"
+    },
+    {
+        "country_name": "India",
+        "country_code": "IN",
+        "price_per_tile": "3.57",
+        "map_url": "https://app.earth2.io/#thegrid/c1f7f03a-6d87-4b70-a632-361e633fecfd"
+    },
+    {
+        "country_name": "Switzerland",
+        "country_code": "CH",
+        "price_per_tile": "3.83",
+        "map_url": "https://app.earth2.io/#thegrid/ec7145b8-eaed-451f-9285-b432814b1acc"
+    },
+    {
+        "country_name": "Mexico",
+        "country_code": "MX",
+        "price_per_tile": "4.41",
+        "map_url": "https://app.earth2.io/#thegrid/66911275-794b-4ca1-b7df-3666c335e3bd"
+    },
+    {
+        "country_name": "Netherlands",
+        "country_code": "NL",
+        "price_per_tile": "5.31",
+        "map_url": "https://app.earth2.io/#thegrid/fcbc1cf8-4f2c-488e-8a7c-004995495ceb"
+    },
+    {
+        "country_name": "Japan",
+        "country_code": "JP",
+        "price_per_tile": "5.74",
+        "map_url": "https://app.earth2.io/#thegrid/f93e3d5a-2794-4171-be57-74f3d635e35d"
+    },
+    {
+        "country_name": "International territory",
+        "country_code": "__",
+        "price_per_tile": "5.81",
+        "map_url": "https://app.earth2.io/#thegrid/e584e9aa-038f-473f-aa6c-92e2660c0fd2"
+    },
+    {
+        "country_name": "China",
+        "country_code": "CN",
+        "price_per_tile": "6.15",
+        "map_url": "https://app.earth2.io/#thegrid/217d2729-554f-46bd-a2af-74186ac0080f"
+    },
+    {
+        "country_name": "Spain",
+        "country_code": "ES",
+        "price_per_tile": "6.36",
+        "map_url": "https://app.earth2.io/#thegrid/840e6b63-7885-47ce-959c-a93a7a7a42ff"
+    },
+    {
+        "country_name": "France",
+        "country_code": "FR",
+        "price_per_tile": "6.55",
+        "map_url": "https://app.earth2.io/#thegrid/5ea2b576-8025-4c67-877c-d4048ccaeac6"
+    },
+    {
+        "country_name": "Canada",
+        "country_code": "CA",
+        "price_per_tile": "7.91",
+        "map_url": "https://app.earth2.io/#thegrid/c5c385e4-856f-404b-bbcf-951c8c4d73cf"
+    },
+    {
+        "country_name": "South Korea",
+        "country_code": "KR",
+        "price_per_tile": "8.50",
+        "map_url": "https://app.earth2.io/#thegrid/0a69c3ff-28e4-4dfe-be80-4b9fdd0dfe8d"
+    },
+    {
+        "country_name": "Australia",
+        "country_code": "AU",
+        "price_per_tile": "9.87",
+        "map_url": "https://app.earth2.io/#thegrid/046cb81c-b219-47b9-b94a-932ccd0d9390"
+    },
+    {
+        "country_name": "Germany",
+        "country_code": "DE",
+        "price_per_tile": "10.08",
+        "map_url": "https://app.earth2.io/#thegrid/cd1bad13-63cd-460f-951f-0a70d3abc844"
+    },
+    {
+        "country_name": "Holy See",
+        "country_code": "VA",
+        "price_per_tile": "10.75",
+        "map_url": "https://app.earth2.io/#thegrid/dd13d593-d450-4461-a49d-dc0840a7e581"
+    },
+    {
+        "country_name": "United Kingdom",
+        "country_code": "GB",
+        "price_per_tile": "11.50",
+        "map_url": "https://app.earth2.io/#thegrid/b254f1d1-8b0b-429c-8967-e788f4fe204b"
+    },
+    {
+        "country_name": "Italy",
+        "country_code": "IT",
+        "price_per_tile": "13.81",
+        "map_url": "https://app.earth2.io/#thegrid/306fadbb-d7e1-4b6a-a889-746804f8458b"
+    },
+    {
+        "country_name": "United States of America",
+        "country_code": "US",
+        "price_per_tile": "47.85",
+        "map_url": "https://app.earth2.io/#thegrid/e7309cd4-4985-4fea-a409-487b074a8984"
+    }
+]
