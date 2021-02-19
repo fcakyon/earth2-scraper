@@ -173,4 +173,8 @@ class Earth2Scraper:
                 )
                 save_json(country_info, save_path)
             all_country_info.append(country_info)
+        all_country_info.sort(key=lambda x: float(x["price_per_tile"]), reverse=False)
+        if export:
+            save_path = "data/{}/{}".format(time.strftime("%Y%m%d"), "all")
+            save_json(all_country_info, save_path)
         return all_country_info
