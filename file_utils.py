@@ -36,3 +36,43 @@ def save_json(data, save_path):
     # export as json
     with open(save_path, "w", encoding="utf-8") as outfile:
         json.dump(data, outfile, indent=4, separators=(",", ": "))
+
+
+def list_files(
+    directory: str,
+    contains: list = [".json"],
+    verbose: int = 1,
+) -> list:
+    """
+    Walk given directory and return a list of file path with desired extension
+    Args:
+        directory: str
+            "data/coco/"
+        contains: list
+            A list of strings to check if the target file contains them, example: ["coco.png", ".jpg", "jpeg"]
+        verbose: int
+            0: no print
+            1: print number of files
+    Returns:
+        filepath_list : list
+            List of file paths
+    """
+    # define verboseprint
+    verboseprint = print if verbose else lambda *a, **k: None
+
+    filepath_list = []
+
+    for file in os.listdir(directory):
+        # check if filename contains any of the terms given in contains list
+        if any(strtocheck in file for strtocheck in contains):
+            filepath = os.path.join(directory, file)
+            filepath_list.append(filepath)
+
+    number_of_files = len(filepath_list)
+    folder_name = directory.split(os.sep)[-1]
+
+    verboseprint(
+        "There are {} listed files in folder {}.".format(number_of_files, folder_name)
+    )
+
+    return filepath_list
