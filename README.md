@@ -1,4 +1,4 @@
-# Earth2.io Scrapper
+# Earth2.io Scraper
 Up-to-date [earth2.io](https://earth2.io/) data
 
 <img width="1100" alt="cover" src="./static/cover.png">
