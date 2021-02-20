@@ -96,11 +96,18 @@ class Earth2Scraper:
             '//div[@class="%s"]' % search_text
         )
         try:
-            search_text = "New Land Value"
-            element = elements[0].find_elements_by_xpath(
-                './/div[@data-title="%s"]' % search_text
-            )[0]
-            per_tile = element.text.split("(")[1].split(" per tile")[0]
+            # get map url
+            elements = elements[0].find_elements_by_xpath(".//a[@href]")
+            for element in elements:
+                if element.text == "BUY":
+                    map_url = element.get_attribute("href")
+            # open map url
+            self.browser.get(map_url)
+            # find market value per tile
+            elements = self.browser.find_elements_by_xpath(
+                "//div[@class='price-secondary']"
+            )
+            per_tile = elements[0].text.split("E$")[1].split(")")[0]
         except:
             per_tile = "0"
 
