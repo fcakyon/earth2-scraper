@@ -12,17 +12,23 @@ EARTH2_MARKETPLACE_URL = "https://app.earth2.io/#marketplace"
 
 class Earth2Scraper:
     def __init__(
-        self, silent_mode=True, language="en", chromedriver_path="chromedriver"
+        self,
+        silent_mode=True,
+        language="en",
+        chromedriver_path="chromedriver",
+        delay_sec=2,
     ):
         """
         Arguments:
             silent_mode: Assign True to run browser in headless mode.
             language: en/tr
             chromedriver_path: Path to chromedriver
+            delay_sec: delay seconds btw requests
         """
         self.silent_mode = silent_mode
         self.language = language
         self.chromedriver_path = chromedriver_path
+        self.delay_sec = delay_sec
         self.browser = None
 
     def init_browser(self):
@@ -49,11 +55,14 @@ class Earth2Scraper:
         assert self.browser is not None, "init browser first"
         self.browser.find_element_by_name("Value").send_keys(Keys.RETURN)
 
-    def go_to_marketplace(self, delay_sec=2):
-        self.browser.get(EARTH2_MARKETPLACE_URL)
+    def go_to_url(self, url):
+        self.browser.get(url)
 
         # delay
-        time.sleep(delay_sec)
+        time.sleep(self.delay_sec)
+
+    def go_to_marketplace(self):
+        self.go_to_url(EARTH2_MARKETPLACE_URL)
 
     def click_to_filter_by_country_flag(self):
         assert (
@@ -67,7 +76,7 @@ class Earth2Scraper:
         elements = self.browser.find_elements_by_xpath(xpath)
         elements[0].click()
 
-    def select_country(self, country_code="IT", delay_sec=2):
+    def select_country(self, country_code="IT"):
         assert (
             self.browser.current_url == EARTH2_MARKETPLACE_URL
         ), "go to marketplace first"
@@ -80,29 +89,15 @@ class Earth2Scraper:
         elements[0].click()
 
         # delay
-        time.sleep(delay_sec)
+        time.sleep(self.delay_sec)
 
-    @property
-    def price_per_tile(self):
+    def price_per_tile(self, map_url):
         """
         Returns price per tile of the first row as str.
         """
-        assert (
-            self.browser.current_url == EARTH2_MARKETPLACE_URL
-        ), "go to marketplace first"
-
-        search_text = "row"
-        elements = self.browser.find_elements_by_xpath(
-            '//div[@class="%s"]' % search_text
-        )
         try:
-            # get map url
-            elements = elements[0].find_elements_by_xpath(".//a[@href]")
-            for element in elements:
-                if element.text == "BUY":
-                    map_url = element.get_attribute("href")
             # open map url
-            self.browser.get(map_url)
+            self.go_to_url(map_url)
             # find market value per tile
             elements = self.browser.find_elements_by_xpath(
                 "//div[@class='price-secondary']"
@@ -110,6 +105,9 @@ class Earth2Scraper:
             per_tile = elements[0].text.split("E$")[1].split(")")[0]
         except:
             per_tile = "0"
+
+        # switch back to marketplace page
+        self.go_to_marketplace()
 
         return per_tile
 
@@ -157,17 +155,18 @@ class Earth2Scraper:
 
         return country_list
 
-    def scrape_all_country_info(self, export=False, delay_sec=2):
-        self.go_to_marketplace(delay_sec=delay_sec)
+    def scrape_all_country_info(
+        self,
+        export=False,
+    ):
+        self.go_to_marketplace()
         country_list = self.country_list
 
         all_country_info = []
         for country in tqdm(country_list):
-            self.select_country(
-                country_code=country["country_code"], delay_sec=delay_sec
-            )
-            price_per_tile = self.price_per_tile
+            self.select_country(country_code=country["country_code"])
             map_url = self.map_url
+            price_per_tile = self.price_per_tile(map_url)
             country_info = {
                 "country_name": country["country_name"],
                 "country_code": country["country_code"],
